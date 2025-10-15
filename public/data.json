@@ -1,0 +1,542 @@
+[
+    {
+        "image": "1n.webp ",
+        "title": "TaskMaster Pro",
+        "companyName": "NextWave Labs",
+        "id": 1,
+        "description": "TaskMaster Pro is your all-in-one productivity companion designed to help you stay organized, focused, and efficient. Manage tasks, set reminders, track goals, and collaborate effortlessly with your team. With intelligent sorting, dark mode, and cloud backup, you'll never lose progress again. Customize your workspace, visualize performance with smart analytics, and integrate with popular tools like Google Calendar or Slack. Whether you're a student, freelancer, or business professional, TaskMaster Pro keeps you on top of everything. Work smarter, plan better, and achieve more — all from a single, intuitive app designed for everyday success.",
+        "size": 45,
+        "reviews": 78,
+        "ratingAvg": 4,
+        "downloads": 23,
+        "ratings": [
+            {"name": "1 star", "count": 2},
+            {"name": "2 star", "count": 3},
+            {"name": "3 star", "count": 7},
+            {"name": "4 star", "count": 25},
+            {"name": "5 star", "count": 41}
+        ]
+    },
+    {
+        "image": "2n.webp",
+        "title": "FitLife Tracker",
+        "companyName": "HealthTech Solutions",
+        "id": 2,
+        "description": "FitLife Tracker is your ultimate fitness partner that helps you achieve your health goals. Track workouts, monitor heart rate, count calories, and get personalized training plans. With social challenges, progress photos, and integration with popular wearables, staying motivated has never been easier. Join millions of users in transforming their lives one step at a time.",
+        "size": 68,
+        "reviews": 124,
+        "ratingAvg": 4.5,
+        "downloads": 56,
+        "ratings": [
+            {"name": "1 star", "count": 3},
+            {"name": "2 star", "count": 5},
+            {"name": "3 star", "count": 15},
+            {"name": "4 star", "count": 41},
+            {"name": "5 star", "count": 60}
+        ]
+    },
+    {
+        "image": "3n.webp",
+        "title": "BudgetBuddy",
+        "companyName": "FinanceWise Inc",
+        "id": 3,
+        "description": "Take control of your finances with BudgetBuddy. Easy expense tracking, bill reminders, investment monitoring, and smart savings recommendations. Visualize your spending patterns with beautiful charts and get insights to improve your financial health.",
+        "size": 32,
+        "reviews": 89,
+        "ratingAvg": 4.2,
+        "downloads": 34,
+        "ratings": [
+            {"name": "1 star", "count": 4},
+            {"name": "2 star", "count": 6},
+            {"name": "3 star", "count": 12},
+            {"name": "4 star", "count": 35},
+            {"name": "5 star", "count": 32}
+        ]
+    },
+    {
+        "image": "4n.webp",
+        "title": "PhotoEdit Pro",
+        "companyName": "Creative Studio",
+        "id": 4,
+        "description": "Professional photo editing in your pocket. Advanced filters, AI enhancement, collage maker, and retouching tools. Transform ordinary photos into extraordinary artworks with just a few taps.",
+        "size": 78,
+        "reviews": 234,
+        "ratingAvg": 4.7,
+        "downloads": 128,
+        "ratings": [
+            {"name": "1 star", "count": 5},
+            {"name": "2 star", "count": 8},
+            {"name": "3 star", "count": 20},
+            {"name": "4 star", "count": 65},
+            {"name": "5 star", "count": 136}
+        ]
+    },
+    {
+        "image": "5n.webp",
+        "title": "LanguageLearn",
+        "companyName": "Global Education",
+        "id": 5,
+        "description": "Learn new languages through interactive lessons, speech recognition, and native speaker audio. Vocabulary games, grammar exercises, and cultural insights make learning fun and effective.",
+        "size": 56,
+        "reviews": 167,
+        "ratingAvg": 4.4,
+        "downloads": 72,
+        "ratings": [
+            {"name": "1 star", "count": 6},
+            {"name": "2 star", "count": 9},
+            {"name": "3 star", "count": 18},
+            {"name": "4 star", "count": 54},
+            {"name": "5 star", "count": 80}
+        ]
+    },
+    {
+        "image": "6n.webp",
+        "title": "MeditateMind",
+        "companyName": "Wellness Circle",
+        "id": 6,
+        "description": "Find your inner peace with guided meditations, sleep stories, breathing exercises, and mindfulness techniques. Reduce stress, improve focus, and enhance your mental wellbeing.",
+        "size": 42,
+        "reviews": 95,
+        "ratingAvg": 4.6,
+        "downloads": 45,
+        "ratings": [
+            {"name": "1 star", "count": 2},
+            {"name": "2 star", "count": 3},
+            {"name": "3 star", "count": 10},
+            {"name": "4 star", "count": 30},
+            {"name": "5 star", "count": 50}
+        ]
+    },
+    {
+        "image": "7n.webp",
+        "title": "RecipeBox",
+        "companyName": "Kitchen Masters",
+        "id": 7,
+        "description": "Discover thousands of recipes from around the world. Step-by-step instructions, video tutorials, shopping lists, and meal planning. Cook like a professional chef at home.",
+        "size": 61,
+        "reviews": 178,
+        "ratingAvg": 4.3,
+        "downloads": 67,
+        "ratings": [
+            {"name": "1 star", "count": 7},
+            {"name": "2 star", "count": 10},
+            {"name": "3 star", "count": 25},
+            {"name": "4 star", "count": 60},
+            {"name": "5 star", "count": 76}
+        ]
+    },
+    {
+        "image": "8n.webp",
+        "title": "WeatherScope",
+        "companyName": "Climate Tech",
+        "id": 8,
+        "description": "Accurate weather forecasts, severe weather alerts, radar maps, and detailed meteorological data. Plan your day with confidence using hyper-local weather predictions.",
+        "size": 38,
+        "reviews": 112,
+        "ratingAvg": 4.1,
+        "downloads": 52,
+        "ratings": [
+            {"name": "1 star", "count": 8},
+            {"name": "2 star", "count": 12},
+            {"name": "3 star", "count": 20},
+            {"name": "4 star", "count": 35},
+            {"name": "5 star", "count": 37}
+        ]
+    },
+    {
+        "image": "9n.webp",
+        "title": "MusicFlow",
+        "companyName": "Sound Innovations",
+        "id": 9,
+        "description": "Stream millions of songs, create playlists, discover new artists, and enjoy high-quality audio. Personalized recommendations based on your listening habits.",
+        "size": 72,
+        "reviews": 289,
+        "ratingAvg": 4.8,
+        "downloads": 156,
+        "ratings": [
+            {"name": "1 star", "count": 4},
+            {"name": "2 star", "count": 6},
+            {"name": "3 star", "count": 15},
+            {"name": "4 star", "count": 75},
+            {"name": "5 star", "count": 189}
+        ]
+    },
+    {
+        "image": "10n.webp",
+        "title": "TravelCompanion",
+        "companyName": "Wanderlust Tech",
+        "id": 10,
+        "description": "Your ultimate travel planning app. Book flights, find hotels, discover local attractions, and get offline maps. Travel smarter with real-time updates and local insights.",
+        "size": 85,
+        "reviews": 156,
+        "ratingAvg": 4.4,
+        "downloads": 78,
+        "ratings": [
+            {"name": "1 star", "count": 5},
+            {"name": "2 star", "count": 8},
+            {"name": "3 star", "count": 22},
+            {"name": "4 star", "count": 55},
+            {"name": "5 star", "count": 66}
+        ]
+    },
+    {
+        "image": "11n.webp",
+        "title": "NoteSync",
+        "companyName": "Productivity Plus",
+        "id": 11,
+        "description": "Capture ideas, organize thoughts, and sync across all your devices. Rich text editing, voice notes, image attachments, and secure cloud backup.",
+        "size": 29,
+        "reviews": 134,
+        "ratingAvg": 4.5,
+        "downloads": 61,
+        "ratings": [
+            {"name": "1 star", "count": 3},
+            {"name": "2 star", "count": 7},
+            {"name": "3 star", "count": 15},
+            {"name": "4 star", "count": 45},
+            {"name": "5 star", "count": 64}
+        ]
+    },
+    {
+        "image": "12n.webp",
+        "title": "CodeEditor Mobile",
+        "companyName": "DevTools Inc",
+        "id": 12,
+        "description": "Write, edit, and run code on the go. Support for multiple programming languages, syntax highlighting, Git integration, and collaborative coding features.",
+        "size": 47,
+        "reviews": 87,
+        "ratingAvg": 4.2,
+        "downloads": 39,
+        "ratings": [
+            {"name": "1 star", "count": 4},
+            {"name": "2 star", "count": 6},
+            {"name": "3 star", "count": 14},
+            {"name": "4 star", "count": 28},
+            {"name": "5 star", "count": 35}
+        ]
+    },
+    {
+        "image": "13n.webp",
+        "title": "PlantCare Guide",
+        "companyName": "Green Thumb Tech",
+        "id": 13,
+        "description": "Identify plants, get care reminders, diagnose problems, and join a community of plant lovers. Your personal botanist in your pocket.",
+        "size": 53,
+        "reviews": 76,
+        "ratingAvg": 4.7,
+        "downloads": 42,
+        "ratings": [
+            {"name": "1 star", "count": 1},
+            {"name": "2 star", "count": 2},
+            {"name": "3 star", "count": 8},
+            {"name": "4 star", "count": 25},
+            {"name": "5 star", "count": 40}
+        ]
+    },
+    {
+        "image": "14n.webp",
+        "title": "SleepTracker",
+        "companyName": "Restful Nights",
+        "id": 14,
+        "description": "Monitor your sleep patterns, analyze sleep quality, and wake up refreshed with smart alarms. Personalized recommendations for better sleep hygiene.",
+        "size": 39,
+        "reviews": 98,
+        "ratingAvg": 4.3,
+        "downloads": 47,
+        "ratings": [
+            {"name": "1 star", "count": 5},
+            {"name": "2 star", "count": 7},
+            {"name": "3 star", "count": 16},
+            {"name": "4 star", "count": 35},
+            {"name": "5 star", "count": 35}
+        ]
+    },
+    {
+        "image": "15n.webp",
+        "title": "NewsHub",
+        "companyName": "Media Stream",
+        "id": 15,
+        "description": "Stay informed with personalized news feed from trusted sources worldwide. Read offline, bookmark articles, and get breaking news notifications.",
+        "size": 44,
+        "reviews": 123,
+        "ratingAvg": 4.1,
+        "downloads": 58,
+        "ratings": [
+            {"name": "1 star", "count": 8},
+            {"name": "2 star", "count": 12},
+            {"name": "3 star", "count": 25},
+            {"name": "4 star", "count": 45},
+            {"name": "5 star", "count": 33}
+        ]
+    },
+    {
+        "image": "16nn.webp",
+        "title": "PuzzleMaster",
+        "companyName": "Brain Games Studio",
+        "id": 16,
+        "description": "Challenge your mind with hundreds of puzzles, brain teasers, and logic games. Daily challenges, global leaderboards, and progressive difficulty.",
+        "size": 67,
+        "reviews": 145,
+        "ratingAvg": 4.6,
+        "downloads": 63,
+        "ratings": [
+            {"name": "1 star", "count": 3},
+            {"name": "2 star", "count": 5},
+            {"name": "3 star", "count": 12},
+            {"name": "4 star", "count": 50},
+            {"name": "5 star", "count": 75}
+        ]
+    },
+    {
+        "image": "17nn.webp",
+        "title": "ExpenseSplit",
+        "companyName": "Group Finance",
+        "id": 17,
+        "description": "Split bills, track group expenses, and settle payments easily. Perfect for roommates, friends, and family sharing costs.",
+        "size": 35,
+        "reviews": 89,
+        "ratingAvg": 4.4,
+        "downloads": 41,
+        "ratings": [
+            {"name": "1 star", "count": 4},
+            {"name": "2 star", "count": 6},
+            {"name": "3 star", "count": 15},
+            {"name": "4 star", "count": 30},
+            {"name": "5 star", "count": 34}
+        ]
+    },
+    {
+        "image": "18nn.webp",
+        "title": "VoiceTranslator",
+        "companyName": "Global Connect",
+        "id": 18,
+        "description": "Real-time voice translation for over 100 languages. Conversation mode, text translation, and offline capability for travelers.",
+        "size": 79,
+        "reviews": 201,
+        "ratingAvg": 4.5,
+        "downloads": 94,
+        "ratings": [
+            {"name": "1 star", "count": 6},
+            {"name": "2 star", "count": 9},
+            {"name": "3 star", "count": 25},
+            {"name": "4 star", "count": 65},
+            {"name": "5 star", "count": 96}
+        ]
+    },
+    {
+        "image": "19nn.webp",
+        "title": "HomeWorkout",
+        "companyName": "Fitness Everywhere",
+        "id": 19,
+        "description": "No gym? No problem! Bodyweight exercises, yoga flows, and equipment-free workouts. Personal trainers and adaptive difficulty levels.",
+        "size": 58,
+        "reviews": 167,
+        "ratingAvg": 4.7,
+        "downloads": 72,
+        "ratings": [
+            {"name": "1 star", "count": 2},
+            {"name": "2 star", "count": 4},
+            {"name": "3 star", "count": 15},
+            {"name": "4 star", "count": 55},
+            {"name": "5 star", "count": 91}
+        ]
+    },
+    {
+        "image": "20n.webp",
+        "title": "Scanner Pro",
+        "companyName": "Office Tools Co",
+        "id": 20,
+        "description": "Scan documents, receipts, and whiteboards with your camera. OCR text recognition, PDF export, and cloud storage integration.",
+        "size": 42,
+        "reviews": 134,
+        "ratingAvg": 4.3,
+        "downloads": 56,
+        "ratings": [
+            {"name": "1 star", "count": 7},
+            {"name": "2 star", "count": 10},
+            {"name": "3 star", "count": 22},
+            {"name": "4 star", "count": 45},
+            {"name": "5 star", "count": 50}
+        ]
+    },
+    {
+        "image": "21n.webp",
+        "title": "Astronomy Guide",
+        "companyName": "Stellar Explorations",
+        "id": 21,
+        "description": "Explore the universe with interactive star maps, planet information, and meteor shower alerts. Augmented reality sky view and telescope control.",
+        "size": 71,
+        "reviews": 78,
+        "ratingAvg": 4.8,
+        "downloads": 35,
+        "ratings": [
+            {"name": "1 star", "count": 1},
+            {"name": "2 star", "count": 2},
+            {"name": "3 star", "count": 5},
+            {"name": "4 star", "count": 20},
+            {"name": "5 star", "count": 50}
+        ]
+    },
+    {
+        "image": "22n.webp",
+        "title": "Password Vault",
+        "companyName": "Security First",
+        "id": 22,
+        "description": "Store and manage all your passwords securely. Auto-fill login forms, generate strong passwords, and sync across devices with encryption.",
+        "size": 33,
+        "reviews": 156,
+        "ratingAvg": 4.6,
+        "downloads": 68,
+        "ratings": [
+            {"name": "1 star", "count": 4},
+            {"name": "2 star", "count": 6},
+            {"name": "3 star", "count": 15},
+            {"name": "4 star", "count": 50},
+            {"name": "5 star", "count": 81}
+        ]
+    },
+    {
+        "image": "23n.webp",
+        "title": "ArtSketch Pad",
+        "companyName": "Digital Canvas",
+        "id": 23,
+        "description": "Create digital art with professional brushes, layers, and tools. Export high-resolution images and share your creations with the community.",
+        "size": 89,
+        "reviews": 112,
+        "ratingAvg": 4.4,
+        "downloads": 49,
+        "ratings": [
+            {"name": "1 star", "count": 5},
+            {"name": "2 star", "count": 8},
+            {"name": "3 star", "count": 18},
+            {"name": "4 star", "count": 35},
+            {"name": "5 star", "count": 46}
+        ]
+    },
+    {
+        "image": "24n.webp",
+        "title": "BabyTracker",
+        "companyName": "Parenting Pro",
+        "id": 24,
+        "description": "Track feeding, diaper changes, sleep patterns, and milestones. Share updates with family and get expert parenting advice.",
+        "size": 46,
+        "reviews": 93,
+        "ratingAvg": 4.7,
+        "downloads": 44,
+        "ratings": [
+            {"name": "1 star", "count": 2},
+            {"name": "2 star", "count": 3},
+            {"name": "3 star", "count": 10},
+            {"name": "4 star", "count": 28},
+            {"name": "5 star", "count": 50}
+        ]
+    },
+    {
+        "image": "25n.webp",
+        "title": "Car Maintenance",
+        "companyName": "Auto Care Tech",
+        "id": 25,
+        "description": "Track service history, get maintenance reminders, diagnose problems, and find trusted mechanics. Save money on car repairs with smart tips.",
+        "size": 52,
+        "reviews": 87,
+        "ratingAvg": 4.2,
+        "downloads": 38,
+        "ratings": [
+            {"name": "1 star", "count": 6},
+            {"name": "2 star", "count": 9},
+            {"name": "3 star", "count": 16},
+            {"name": "4 star", "count": 30},
+            {"name": "5 star", "count": 26}
+        ]
+    },
+    {
+        "image": "26n.webp",
+        "title": "List Manager",
+        "companyName": "Home Organizer",
+        "id": 26,
+        "description": "Create smart shopping lists, organize by categories, share with family, and get price comparisons. Never forget an item again.",
+        "size": 28,
+        "reviews": 145,
+        "ratingAvg": 4.5,
+        "downloads": 62,
+        "ratings": [
+            {"name": "1 star", "count": 4},
+            {"name": "2 star", "count": 7},
+            {"name": "3 star", "count": 18},
+            {"name": "4 star", "count": 50},
+            {"name": "5 star", "count": 66}
+        ]
+    },
+    {
+        "image": "27n.webp",
+        "title": "VPN Secure",
+        "companyName": "Privacy Shield",
+        "id": 27,
+        "description": "Protect your online privacy with military-grade encryption. Access global content, secure public WiFi, and browse anonymously.",
+        "size": 41,
+        "reviews": 201,
+        "ratingAvg": 4.3,
+        "downloads": 89,
+        "ratings": [
+            {"name": "1 star", "count": 9},
+            {"name": "2 star", "count": 12},
+            {"name": "3 star", "count": 30},
+            {"name": "4 star", "count": 65},
+            {"name": "5 star", "count": 85}
+        ]
+    },
+    {
+        "image": "28n.webp",
+        "title": "Bird Watcher",
+        "companyName": "Nature Enthusiasts",
+        "id": 28,
+        "description": "Identify birds by photo or sound, log sightings, join birding communities, and contribute to citizen science projects.",
+        "size": 63,
+        "reviews": 67,
+        "ratingAvg": 4.8,
+        "downloads": 31,
+        "ratings": [
+            {"name": "1 star", "count": 1},
+            {"name": "2 star", "count": 2},
+            {"name": "3 star", "count": 5},
+            {"name": "4 star", "count": 19},
+            {"name": "5 star", "count": 40}
+        ]
+    },
+    {
+        "image": "29n.webp",
+        "title": "Interview Prep",
+        "companyName": "Career Boost",
+        "id": 29,
+        "description": "Practice interview questions, get feedback on answers, track applications, and connect with career coaches. Land your dream job.",
+        "size": 37,
+        "reviews": 98,
+        "ratingAvg": 4.4,
+        "downloads": 45,
+        "ratings": [
+            {"name": "1 star", "count": 5},
+            {"name": "2 star", "count": 7},
+            {"name": "3 star", "count": 16},
+            {"name": "4 star", "count": 35},
+            {"name": "5 star", "count": 35}
+        ]
+    },
+    {
+        "image": "30n.webp",
+        "title": "PlantWater",
+        "companyName": "Garden Assistant",
+        "id": 30,
+        "description": "Never forget to water your plants again. Custom schedules, plant care tips, and progress tracking for your green friends.",
+        "size": 31,
+        "reviews": 76,
+        "ratingAvg": 4.6,
+        "downloads": 36,
+        "ratings": [
+            {"name": "1 star", "count": 2},
+            {"name": "2 star", "count": 4},
+            {"name": "3 star", "count": 10},
+            {"name": "4 star", "count": 25},
+            {"name": "5 star", "count": 35}
+        ]
+    }
+]
